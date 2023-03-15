@@ -1,4 +1,4 @@
-# Exercise about STREAM in JAVA
+# Desafio análise de vendas 1
 
 
 >### Status: Finished ✔️
@@ -11,7 +11,7 @@
 ---
 
 >## SOBRE ❓
-> Exercicio sobre stream para melhorar o entendimento da linguagem. Nesse exercício foi usado alguns conceitos como por exemplo exceções, pipeline, operações terminais e intermediárias, comparator e etc.<br><br>
+> Desafio sobre stream para melhorar o entendimento da linguagem. Nesse desafio foi feito uma filtragem em uma grande lista de vendas onde foi possível usar alguns conceitos muito importantes da linguagem JAVA, como por exemplo exceções, streams, listas, pipeline, operações terminais e intermediárias, comparator e etc.<br><br>
 
 ---
 
@@ -19,12 +19,12 @@
 
 ## Enunciado 
 
-<img src="https://github.com/Leothurm/Stream-2-in-JAVA/blob/main/img/Enunciado.PNG">
+<img src="https://github.com/Leothurm/Desafio-analise-vendas-1/blob/main/imgs/enunciado1.PNG">
 
 
-## Input/Output
+## Estrutura
 
-<img src="https://github.com/Leothurm/Stream-2-in-JAVA/blob/main/img/Enunciado2.PNG.PNG">
+<img src="https://github.com/Leothurm/Desafio-analise-vendas-1/blob/main/imgs/Estrutura.PNG">
 
 </div>
 
